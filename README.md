@@ -9,6 +9,7 @@ This project is a Weather app with login using Google firebase SSO.
 
 ## Keystore
 - kinly request for access
+- paste into android folder
 [Download link](https://drive.google.com/file/d/1rBXdj9OVGB94FbKuqBiooi1efHIKC0DL/view?usp=sharing)
 
 ## Test Coverage
