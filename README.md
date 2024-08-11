@@ -5,7 +5,7 @@
 This project is a Weather app with login using Google firebase SSO.
 
 ## APK File
-
+[Download link](https://drive.google.com/file/d/1Ju_i7tz9KNn8JNZGbUSkjII3gMlODSsj/view?usp=sharing)
 
 ## Test Coverage
 Note: Firebase integration not included in functional testing, but added in integration testing <br>
