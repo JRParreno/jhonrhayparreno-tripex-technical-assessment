@@ -20,7 +20,7 @@ Note: Firebase integration not included in functional testing, but added in inte
 
 ## How to run
 Mac/Linux setup:
-- type in your terminal ***sh rebuild.sh buil*** to install/rebuild everything
+- type in your terminal ***sh rebuild.sh build*** to install/rebuild everything
 - and click run in vscode
 
 Windows setup:
