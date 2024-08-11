@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1064211507761",
+    "project_id": "fir-weather-6cdae",
+    "storage_bucket": "fir-weather-6cdae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064211507761:android:be9ecfa61aea5d3e240310",
+        "android_client_info": {
+          "package_name": "com.example.jhon_rhay_parreno_technical_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064211507761-foa221t7v9mm9bvugcjsh66o7lmtj7r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhon_rhay_parreno_technical_assessment",
+            "certificate_hash": "a2dd5659862ae511197f3406b29ff40df1fee634"
+          }
+        },
+        {
+          "client_id": "1064211507761-8glo2gklarl1mu5flan6t2sp60f0bmee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBarBbnmGwYm7qXEGE_P6_t19HhzSwj3PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064211507761-8glo2gklarl1mu5flan6t2sp60f0bmee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064211507761-7cthd2u8lu6d0ed8egbc0406kotu7hb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jhonRhayParrenoTechnicalAssessment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

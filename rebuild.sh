@@ -1,0 +1,1 @@
+ flutter clean &&  flutter pub get &&  flutter pub global activate intl_utils &&  flutter packages run intl_utils:generate && dart run build_runner build

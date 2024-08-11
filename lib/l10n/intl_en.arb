@@ -1,0 +1,13 @@
+{
+    "weatherApp": "Weather App",
+    "welcomeBackYouveBeenMiseed": "Welcome back you've been missed!",
+    "logout": "Logout",
+    "toContinuePleaseUseGoogleAccount": "To continue please use Google Account.",
+    "youAreDisconnectedToTheInternet": "You are disconnected to the internet.",
+    "locationDisable": "Location is disable please turn on and then try again.",
+    "somethingWentWrongTryAgain": "Something went wrong. Please try again",
+    "loadingPleaseWait": "Loading please wait",
+    "tryAgain": "Try again",
+    "areYouSureYouWantToLogout": "Are you sure you want to logout?",
+    "cancel": "Cancel"
+}
